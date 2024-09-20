@@ -5,4 +5,9 @@
 * There are a some issues that need to be worked out on the timing. the F keys can all be programed to have macro functions with vk. main issues is occasional letter doubling need for vk to use Enter
 * Control acts as the VK switch key and have to use it to use enter for some reason. Enter can be programed into a F key as a workaround with the use of crtl(VK Virtual Key).
 * Not all characters features work on number pad. this code could be redone without FabGL to use PS/2 port and be much more precise with button up and down pushes.
+* Works on linux, Android and Windows
 
+* FabGl library for scancodes, ps/2 and other features https://github.com/fdivitto/FabGL
+* https://github.com/T-vK/ESP32-BLE-Keyboard libraries 
+
+* Used both above libraries together and chatgpt with lots of debugging to make this happen
