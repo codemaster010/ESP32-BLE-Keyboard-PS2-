@@ -1,0 +1,8 @@
+* This keyboard library is meant for using the PS/2 port thats connected to a esp32 using FabGL libraries and scancode. 
+* Keyboard arrows letters and numbers all work
+* Crtl and F1 copy to and F2 paste the clipboard F3 F4 vol up down works.
+* This code was tested on TTGO VGA V1.4 Controller PS/2 port but should work with esp32, might need resistors.. 
+* There are a some issues that need to be worked out on the timing. the F keys can all be programed to have macro functions with vk. main issues is occasional letter doubling need for vk to use Enter
+* Control acts as the VK switch key and have to use it to use enter for some reason. Enter can be programed into a F key as a workaround with the use of crtl(VK Virtual Key).
+* Not all characters features work on number pad. this code could be redone without FabGL to use PS/2 port and be much more precise with button up and down pushes.
+
