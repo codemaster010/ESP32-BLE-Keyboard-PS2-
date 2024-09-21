@@ -13,6 +13,8 @@ This keyboard library is meant for using the PS/2 port thats connected to a esp3
 * Not all characters features work on number pad. this code could be redone without FabGL to use PS/2 port and be much more precise with button up and down pushes.
 * Works on linux, Android and Windows
 
+* Need to integrate mouse into project
+
 * FabGl library for scancodes, ps/2 and other features https://github.com/fdivitto/FabGL
 * https://github.com/T-vK/ESP32-BLE-Keyboard libraries 
 
