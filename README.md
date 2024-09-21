@@ -20,3 +20,4 @@ This keyboard library is meant for using the PS/2 port thats connected to a esp3
 
 I recommend the LILYGO® TTGO VGA V1.4 Controller to make it easy or wire up the ps/2 wiring correctly with needed resistors ect. the pins in the code are  PS2_KEYBOARD_DATA_PIN 32
 and PS2_KEYBOARD_CLOCK_PIN 33 set for the ttgo VGA v1.4 controller https://www.lilygo.cc/products/fabgl-vga32 (no affiliation)
+![20240921_040127](https://github.com/user-attachments/assets/38654779-f7c5-438c-9aa3-c6c1fbf4c5e9)
