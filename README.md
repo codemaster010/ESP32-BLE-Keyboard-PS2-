@@ -5,8 +5,10 @@ This keyboard library is meant for using the PS/2 port thats connected to a esp3
 * Keyboard arrows letters and numbers all work
   
 * Crtl and F1 copy to and F2 paste the clipboard F3 F4 vol up down works.
- 
-* This code was tested on TTGO VGA V1.4 Controller PS/2 port but should work with esp32, might need resistors..
+
+* For regular esp32 dev board might need to change board type from "TTGO_ESP32" to "ESP32" (untested)
+  
+* This code was tested on TTGO VGA V1.4 Controller PS/2 port but should work with esp32, might need resistors(Do your research on this subject..
   
 * There are a some issues that need to be worked out on the timing. the F keys can all be programed to have macro functions with vk. main issues is occasional letter doubling need for vk to use Enter
   
