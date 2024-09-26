@@ -1,10 +1,12 @@
 This keyboard library is meant for using the PS/2 port thats connected to a esp32 using FabGL libraries and scancode. i did not see the ability to use all keys with keyboard library setup for ps/2 port in any other builds so that is the main purpose to make it easy for old keyboards before usb hid. this verion should be able to be updated with more precise key presses and scancodes in the future
 
+* Bluetooth tested and working on Raspian OS, Android and Windows
+
 * Numlock/Capslock/Scrolllock leds work
 
 * Keyboard arrows letters and numbers all work
   
-* Crtl and F1 copy to and F2 paste the clipboard F3 F4 vol up down works.
+* Crtl and F1 paste
 
 * For regular esp32 dev board might need to change board type from "TTGO_ESP32" to "ESP32" (untested)
   
