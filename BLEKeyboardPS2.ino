@@ -110,58 +110,13 @@ void loop()
           case fabgl::VK_F1:
             if (!keyPressed[KEY_F1] && (currentTime - lastKeyPressTime[KEY_F1] > debounceDelay)) {
               if (bleKeyboard.isConnected()) {
-                // Simulate Ctrl + C (paste)
-                bleKeyboard.press(KEY_LEFT_CTRL);
-                bleKeyboard.press('c');  // 'c' key for copy
-                bleKeyboard.releaseAll();
-              }
-              lastKeyPressTime[KEY_F1] = currentTime;
-              keyPressed[KEY_F1] = true;
-            }
-            break;
-          case fabgl::VK_F2:
-            if (!keyPressed[KEY_F2] && (currentTime - lastKeyPressTime[KEY_F2] > debounceDelay)) {
-              if (bleKeyboard.isConnected()) {
                 // Simulate Ctrl + V (paste)
                 bleKeyboard.press(KEY_LEFT_CTRL);
                 bleKeyboard.press('v');  // 'v' key for paste
                 bleKeyboard.releaseAll();
               }
-              lastKeyPressTime[KEY_F2] = currentTime;
-              keyPressed[KEY_F2] = true;
-            }
-            break;
-          case fabgl::VK_F3:
-            if (!keyPressed[KEY_F3] && (currentTime - lastKeyPressTime[KEY_F3] > debounceDelay)) {
-              if (bleKeyboard.isConnected()) {
-                // Simulate Volume Up
-                bleKeyboard.press(KEY_MEDIA_VOLUME_UP);
-                bleKeyboard.releaseAll();
-              }
-              lastKeyPressTime[KEY_F3] = currentTime;
-              keyPressed[KEY_F3] = true;
-            }
-            break;
-          case fabgl::VK_F12:
-            if (!keyPressed[KEY_RETURN] && (currentTime - lastKeyPressTime[KEY_RETURN] > debounceDelay)) {
-              if (bleKeyboard.isConnected()) {
-                // Simulate Volume Up
-                bleKeyboard.press(KEY_RETURN);
-                bleKeyboard.releaseAll();
-              }
-              lastKeyPressTime[KEY_RETURN] = currentTime;
-              keyPressed[KEY_RETURN] = true;
-            }
-            break;
-          case fabgl::VK_F4:
-            if (!keyPressed[KEY_F4] && (currentTime - lastKeyPressTime[KEY_F4] > debounceDelay)) {
-              if (bleKeyboard.isConnected()) {
-                // Simulate Volume Down
-                bleKeyboard.press(KEY_MEDIA_VOLUME_DOWN);
-                bleKeyboard.releaseAll();
-              }
-              lastKeyPressTime[KEY_F4] = currentTime;
-              keyPressed[KEY_F4] = true;
+              lastKeyPressTime[KEY_F1] = currentTime;
+              keyPressed[KEY_F1] = true;
             }
             break;
           case fabgl::VK_LEFT:
