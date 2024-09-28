@@ -1,3 +1,5 @@
+// General Shortcuts
+
 #include "bb_spi_lcd.h"
 #include "BleKeyboard.h" // BLE Keyboard library
 
