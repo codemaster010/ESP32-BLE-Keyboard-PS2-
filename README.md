@@ -22,7 +22,8 @@ This keyboard library is meant for using the PS/2 port thats connected to a esp3
 * Need to integrate mouse into project
 
 * FabGl library for scancodes, ps/2 and other features https://github.com/fdivitto/FabGL
-* https://github.com/T-vK/ESP32-BLE-Keyboard libraries 
+* https://github.com/T-vK/ESP32-BLE-Keyboard libraries
+* https://github.com/arduino-libraries/Keyboard/
 
 * Used both above libraries together and chatgpt with lots of debugging to make this happen
 
