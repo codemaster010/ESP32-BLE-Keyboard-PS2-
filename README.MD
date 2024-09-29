@@ -1,5 +1,15 @@
 will update this readme soon
 
+* Button color change with touch
+* Fast access to valuable shorcuts
+* Ble Connection to Raspberry Pi, Android and Windows (Not fully tested)
+* Easy to read button labels can edit in the array
+* Multiple functions to perform shorcuts
+* Easy to load in arduino Ide
+* Page top labels
+
+  To do, WIP: integrate 5 pages, navigation and correct shortcuts/functions into one .ino file.
+
 ![Alt text](https://github.com/codemaster010/ESP32-BLE-Keyboard-PS2-/blob/ESP32-BLE-Keyboard-CYD-ButtonShortcuts/ESP32_CYD_28R.jpg)
 
 
