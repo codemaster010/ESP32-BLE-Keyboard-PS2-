@@ -25,8 +25,8 @@ void (*buttonFunctions[BUTTON_COUNT])();
 
 // Array to store custom labels for each button with YouTube shortcuts
 const char* buttonLabels[BUTTON_COUNT] = {
-  "Play/Pau", "Vol U", "Vol D", "FullScr", 
-  "Exit FS", "Next Vid", "Prev Vid", "Mute/Un",
+  "Play/Pa", "Vol U", "Vol D", "FullScr", 
+  "Exit FS", "NextVid", "PrevVid", "Mute/Un",
   "CC", "Stats", "Seek F", "Seek B"
 };
 
