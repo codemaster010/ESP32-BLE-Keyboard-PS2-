@@ -14,7 +14,7 @@ To do, WIP: integrate 5 pages, navigation and correct shortcuts/functions into o
 ![Alt text](https://github.com/codemaster010/ESP32-BLE-Keyboard-PS2-/blob/ESP32-BLE-Keyboard-CYD-ButtonShortcuts/ESP32_CYD_28R.jpg)
 
 
-this library is a build of the esp32 BLE Library to use the CYD 2.8 inch Screen to give the screen the functionality of a remote bluetooth button system that sends shortcuts to the OS its connected to. not all features are fully tested so user warning is advised until its fully tested. each .ino file has a different system of buttons for example P1 is General shortcuts, P2 is firefox shortcuts, p3 is arduino ide, p4 is vs code and p5 is youtube shortcuts. my goal is to integrate 5 pages in the .ino file but there are more bugs to work out for that.
+this library is a build of the esp32 BLE Library to use the CYD 2.8 inch Screen to give the screen the functionality of a remote bluetooth button system that sends shortcuts to the OS,robotics or what ever its connected to. not all features are fully tested so user warning is advised until its fully tested. each .ino file has a different system of buttons for example P1 is General shortcuts, P2 is firefox shortcuts, p3 is arduino ide, p4 is vs code and p5 is youtube shortcuts. my goal is to integrate 5 pages in the .ino file but there are more bugs to work out for that.
 
 Legal Disclaimer: by using this software you hold the creater not accountable if any issues arise, all use of this software is up to the the user to know his or her countries laws. this software is intended for use as an aid to help with certain tasks on the computer.
 
