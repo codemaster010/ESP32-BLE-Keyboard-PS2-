@@ -22,7 +22,9 @@ Legal Disclaimer: by using this software you hold the creater not accountable if
 Huge Thanks to https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display for providing so much help and examples
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+
 T-vK Credits from Readme for Ble Keyboard Library
+https://github.com/T-vK/ESP32-BLE-Keyboard
 All original files are accompanied in folders
 Credits to chegewara and the authors of the USB keyboard library as this project is heavily based on their work!
 Also, credits to duke2421 who helped a lot with testing, debugging and fixing the device descriptor! And credits to sivar2311 for adding NimBLE support, greatly reducing the memory footprint, fixing advertising issues and for adding the setDelay method.
