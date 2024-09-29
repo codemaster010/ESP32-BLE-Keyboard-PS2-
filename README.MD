@@ -23,7 +23,7 @@ Huge Thanks to https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display for pr
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-T-vK Credits from Readme for Ble Keyboard Library
+T-vK Credits from Readme for Ble Keyboard Library:
 https://github.com/T-vK/ESP32-BLE-Keyboard
 All original files are accompanied in folders
 Credits to chegewara and the authors of the USB keyboard library as this project is heavily based on their work!
