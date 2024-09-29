@@ -32,6 +32,8 @@ https://github.com/chegewara
 https://github.com/sivar2311
 https://github.com/T-vK/ESP32-BLE-Keyboard/issues/1
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 https://github.com/arduino-libraries/Keyboard/
 License Keyboard Library for Arduino
 
