@@ -1,5 +1,4 @@
-will update this readme soon
-
+ESP32-BLE-Keyboard library with ESP32 Cheap Yellow Display Board – CYD (ESP32-2432S028R)
 * Button color change with touch
 * Fast access to valuable shorcuts
 * Ble Connection to Raspberry Pi, Android and Windows (Not fully tested)
