@@ -14,13 +14,14 @@ To do, WIP: integrate 5 pages, navigation and correct shortcuts/functions into o
 
 this library is a build of the esp32 BLE Library to use the CYD 2.8 inch Screen to give the screen the functionality of a remote bluetooth button system that sends shortcuts to the OS,robotics or what ever its connected to. not all features are fully tested so user warning is advised until its fully tested. each .ino file has a different system of buttons for example P1 is General shortcuts, P2 is firefox shortcuts, p3 is arduino ide, p4 is vs code and p5 is youtube shortcuts. my goal is to integrate 5 pages in the .ino file but there are more bugs to work out for that.
 
-Legal Disclaimer: by using this software you hold the creater not accountable if any issues arise, all use of this software is up to the the user to know his or her countries laws. this software is intended for use as an aid to help with certain tasks on the computer.
+Legal Disclaimer: by using this software you agree not to hold the creator accountable if any issues that arise. this software is intended for use as an aid to help with certain tasks on the computer, operating systems and robotics with in the laws of each persons country. persons shall understand the rules and laws of there individual contry, state or province and witch ever laws govern and apply.
 
-
+Credits:
 
 Huge Thanks to https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display for providing so much help and examples
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+Previous credits from fork:
 
 T-vK Credits from Readme for Ble Keyboard Library:
 https://github.com/T-vK/ESP32-BLE-Keyboard
