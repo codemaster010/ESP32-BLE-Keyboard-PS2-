@@ -7,6 +7,8 @@ ESP32-BLE-Keyboard library with ESP32 Cheap Yellow Display Board – CYD (ESP32-
 * Multiple functions to perform shorcuts
 * Easy to load in arduino Ide
 * Page top labels
+* Accurate buttons
+* Great response times
 
 ![Alt text](https://github.com/codemaster010/ESP32-BLE-Keyboard-PS2-/blob/ESP32-BLE-Keyboard-CYD-ButtonShortcuts/ESP32_CYD_28R.jpg)
 
