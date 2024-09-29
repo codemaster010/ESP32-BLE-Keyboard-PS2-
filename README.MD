@@ -7,7 +7,7 @@ Legal Disclaimer: by using this software you hold the creater not accountable if
 
 
 
-
+Huge Thanks to https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display for providing so much help and examples
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 T-vK Credits from Readme for Ble Keyboard Library
