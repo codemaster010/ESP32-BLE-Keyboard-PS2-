@@ -18,7 +18,17 @@ To do, WIP: integrate 5 pages, navigation and correct shortcuts/functions into o
 
 this library is a build of the esp32 BLE Library to use the CYD 2.8 inch Screen to give the screen the functionality of a remote bluetooth button system that sends shortcuts to the OS,robotics or what ever its connected to. not all features are fully tested so user warning is advised until its fully tested. each .ino file has a different system of buttons for example P1.ino is General shortcuts, P2 is firefox shortcuts, p3 is arduino ide, p4 is vs code and p5 is youtube shortcuts. my goal is to integrate 5 pages in the .ino file but there are more bugs to work out for that.
 
-Legal Disclaimer: by using this software you agree not to hold the creator accountable if any issues that arise. this software is intended for use as an aid to help with certain tasks on the computer, operating systems and robotics. this interactive software shall be used with in all applicable laws of each persons country and internationally. users or persons shall understand the rules and laws of there individual contry, state, province, international and which ever laws govern and apply to said persons. Use at your own risk.
+Legal Disclaimer:
+
+By using this software, you acknowledge and agree to the following:
+
+    No Warranty or Liability: This software is provided "as-is" without any express or implied warranties. The creator disclaims all liability for any damage, data loss, or issues arising from the use or misuse of this software. Use of this software is entirely at your own risk.
+
+    Intended Use: This software is intended solely for personal, educational, or professional purposes as an aid to perform tasks on a computer, operating systems, or robotics. It is not intended for use in life-critical or hazardous environments.
+
+    Compliance with Laws: Users are responsible for ensuring their use of this software complies with all applicable local, state, national, and international laws, including but not limited to software, data, and privacy regulations. The creator is not responsible for any illegal or unethical usage of this software.
+
+    Assumption of Risk: Users assume full responsibility for any consequences resulting from their use of the software, including but not limited to hardware or software malfunctions, personal injury, or legal issues.
 
 Credits:
 
