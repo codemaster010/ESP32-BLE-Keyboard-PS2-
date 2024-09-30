@@ -53,29 +53,29 @@ Legal Disclaimer:
 
 By using this software, you acknowledge and agree to the following:
 
-    No Warranty or Liability:
-    This software is provided "as-is," without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The creator expressly disclaims any liability for any direct, indirect, incidental, special, or consequential damages, including but not limited to data loss, device malfunction, financial losses, or other issues resulting from the use or misuse of this software. Users agree that any reliance on this software is entirely at their own risk.
+No Warranty or Liability:
+This software is provided "as-is," without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The creator expressly disclaims any liability for any direct, indirect, incidental, special, or consequential damages, including but not limited to data loss, device malfunction, financial losses, or other issues resulting from the use or misuse of this software. Users agree that any reliance on this software is entirely at their own risk.
 
-    Intended Use:
-    This software is designed for personal, educational, or professional purposes as a tool to assist with tasks related to computers, operating systems, and robotics. It is not intended for use in safety-critical, life-support, or high-risk environments, such as those involving medical devices, aerospace, or industrial machinery where failure or malfunction could lead to death, injury, or environmental harm. Users should assess the suitability of this software for their particular use case.
+Intended Use:
+This software is designed for personal, educational, or professional purposes as a tool to assist with tasks related to computers, operating systems, and robotics. It is not intended for use in safety-critical, life-support, or high-risk environments, such as those involving medical devices, aerospace, or industrial machinery where failure or malfunction could lead to death, injury, or environmental harm. Users should assess the suitability of this software for their particular use case.
 
-    Compliance with Laws:
-    Users are solely responsible for ensuring that their use of this software is in full compliance with all applicable local, state, national, and international laws, regulations, and standards, including but not limited to those related to software licensing, data privacy, intellectual property, and cybersecurity. The creator disclaims any responsibility for violations of such laws or regulations resulting from the use of this software. Users are advised to consult legal or compliance professionals to ensure their usage is lawful.
+Compliance with Laws:
+Users are solely responsible for ensuring that their use of this software is in full compliance with all applicable local, state, national, and international laws, regulations, and standards, including but not limited to those related to software licensing, data privacy, intellectual property, and cybersecurity. The creator disclaims any responsibility for violations of such laws or regulations resulting from the use of this software. Users are advised to consult legal or compliance professionals to ensure their usage is lawful.
 
-    Assumption of Risk:
-    By using this software, users assume all responsibility for any consequences arising from its use, including but not limited to:
-        Hardware or software malfunctions, failures, or damage to devices.
-        Unintended or undesired interactions with other software or systems.
-        Legal issues or liabilities resulting from improper or unauthorized use of the software.
-        Potential security vulnerabilities or data breaches resulting from incorrect implementation or usage.
-        Users must take appropriate precautions, including regular backups, to protect against data loss or hardware damage.
+Assumption of Risk:
+By using this software, users assume all responsibility for any consequences arising from its use, including but not limited to:
+Hardware or software malfunctions, failures, or damage to devices.
+Unintended or undesired interactions with other software or systems.
+Legal issues or liabilities resulting from improper or unauthorized use of the software.
+Potential security vulnerabilities or data breaches resulting from incorrect implementation or usage.
+Users must take appropriate precautions, including regular backups, to protect against data loss or hardware damage.
 
-    Modifications and Third-Party Integrations:
-    Any modifications, alterations, or additions made to this software by the user or third parties are done at the user's own risk. The creator disclaims any responsibility for issues arising from such modifications or from the integration of this software with third-party hardware or software. Users are responsible for ensuring the compatibility and stability of any such integrations.
+modifications and Third-Party Integrations:
+Any modifications, alterations, or additions made to this software by the user or third parties are done at the user's own risk. The creator disclaims any responsibility for issues arising from such modifications or from the integration of this software with third-party hardware or software. Users are responsible for ensuring the compatibility and stability of any such integrations.
 
-    No Technical Support Guarantee:
-    The creator is under no obligation to provide technical support, updates, patches, or bug fixes. Any such assistance, if offered, is provided at the creator’s discretion and without any guarantees.
+No Technical Support Guarantee:
+The creator is under no obligation to provide technical support, updates, patches, or bug fixes. Any such assistance, if offered, is provided at the creator’s discretion and without any guarantees.
 
-    Indemnification:
-    Users agree to indemnify, defend, and hold harmless the creator from and against any claims, liabilities, damages, losses, and expenses (including legal fees) arising out of or in any way connected with their use or misuse of the software, including violations of any third-party rights or applicable laws.
+Indemnification:
+Users agree to indemnify, defend, and hold harmless the creator from and against any claims, liabilities, damages, losses, and expenses (including legal fees) arising out of or in any way connected with their use or misuse of the software, including violations of any third-party rights or applicable laws.
 
