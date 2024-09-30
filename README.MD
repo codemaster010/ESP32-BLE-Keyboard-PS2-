@@ -10,7 +10,7 @@ ESP32-BLE-Keyboard library with ESP32 Cheap Yellow Display Board – CYD (ESP32-
 * Accurate buttons
 * Great response times
 
-Install using arduino ide 1.8.19   | use library ble keyboard is by author Tv-k and install library bb_spi_lcd.h by larry bank through arduino library manager
+Install using arduino ide 1.8.19   | use library ble keyboard is by author Tv-k and install library bb_spi_lcd.h by larry bank through Arduino IDE library manager
 
 ![Alt text](https://github.com/codemaster010/ESP32-BLE-Keyboard-PS2-/blob/ESP32-BLE-Keyboard-CYD-ButtonShortcuts/ESP32_CYD_28R.jpg)
 
