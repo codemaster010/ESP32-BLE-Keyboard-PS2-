@@ -47,8 +47,6 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 
-Here is a more comprehensive and detailed legal disclaimer for your software:
-
 Legal Disclaimer:
 
 By using this software, you acknowledge and agree to the following:
