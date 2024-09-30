@@ -10,13 +10,15 @@ ESP32-BLE-Keyboard library with ESP32 Cheap Yellow Display Board – CYD (ESP32-
 * Accurate buttons
 * Great response times
 
+Install using arduino ide 1.8.19   | use library ble keyboard is by author Tv-k and install library bb_spi_lcd.h by larry bank through arduino library manager
+
 ![Alt text](https://github.com/codemaster010/ESP32-BLE-Keyboard-PS2-/blob/ESP32-BLE-Keyboard-CYD-ButtonShortcuts/ESP32_CYD_28R.jpg)
 
 To do, WIP: integrate 5 pages, navigation and correct shortcuts/functions into one .ino file.
 
-this library is a build of the esp32 BLE Library to use the CYD 2.8 inch Screen to give the screen the functionality of a remote bluetooth button system that sends shortcuts to the OS,robotics or what ever its connected to. not all features are fully tested so user warning is advised until its fully tested. each .ino file has a different system of buttons for example P1 is General shortcuts, P2 is firefox shortcuts, p3 is arduino ide, p4 is vs code and p5 is youtube shortcuts. my goal is to integrate 5 pages in the .ino file but there are more bugs to work out for that.
+this library is a build of the esp32 BLE Library to use the CYD 2.8 inch Screen to give the screen the functionality of a remote bluetooth button system that sends shortcuts to the OS,robotics or what ever its connected to. not all features are fully tested so user warning is advised until its fully tested. each .ino file has a different system of buttons for example P1.ino is General shortcuts, P2 is firefox shortcuts, p3 is arduino ide, p4 is vs code and p5 is youtube shortcuts. my goal is to integrate 5 pages in the .ino file but there are more bugs to work out for that.
 
-Legal Disclaimer: by using this software you agree not to hold the creator accountable if any issues that arise. this software is intended for use as an aid to help with certain tasks on the computer, operating systems and robotics with in the laws of each persons country. persons shall understand the rules and laws of there individual contry, state or province and witch ever laws govern and apply.
+Legal Disclaimer: by using this software you agree not to hold the creator accountable if any issues that arise. this software is intended for use as an aid to help with certain tasks on the computer, operating systems and robotics. this interactive software shall be used with in all applicable laws of each persons country and internationally. users or persons shall understand the rules and laws of there individual contry, state, province, international and which ever laws govern and apply to said persons. Use at your own risk.
 
 Credits:
 
