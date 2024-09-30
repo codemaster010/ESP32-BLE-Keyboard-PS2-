@@ -21,14 +21,10 @@ this library is a build of the esp32 BLE Library to use the CYD 2.8 inch Screen 
 Legal Disclaimer:
 
 By using this software, you acknowledge and agree to the following:
-
-    No Warranty or Liability: This software is provided "as-is" without any express or implied warranties. The creator disclaims all liability for any damage, data loss, or issues arising from the use or misuse of this software. Use of this software is entirely at your own risk.
-
-    Intended Use: This software is intended solely for personal, educational, or professional purposes as an aid to perform tasks on a computer, operating systems, or robotics. It is not intended for use in life-critical or hazardous environments.
-
-    Compliance with Laws: Users are responsible for ensuring their use of this software complies with all applicable local, state, national, and international laws, including but not limited to software, data, and privacy regulations. The creator is not responsible for any illegal or unethical usage of this software.
-
-    Assumption of Risk: Users assume full responsibility for any consequences resulting from their use of the software, including but not limited to hardware or software malfunctions, personal injury, or legal issues.
+No Warranty or Liability: This software is provided "as-is" without any express or implied warranties. The creator disclaims all liability for any damage, data loss, or issues arising from the use or misuse of this software. Use of this software is entirely at your own risk.
+Intended Use: This software is intended solely for personal, educational, or professional purposes as an aid to perform tasks on a computer, operating systems, or robotics. It is not intended for use in life-critical or hazardous environments.
+Compliance with Laws: Users are responsible for ensuring their use of this software complies with all applicable local, state, national, and international laws, including but not limited to software, data, and privacy regulations. The creator is not responsible for any illegal or unethical usage of this software.
+Assumption of Risk: Users assume full responsibility for any consequences resulting from their use of the software, including but not limited to hardware or software malfunctions, personal injury, or legal issues.
 
 Credits:
 
